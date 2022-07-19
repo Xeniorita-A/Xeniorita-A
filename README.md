@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xeniorita-A
 - 👀 I’m interested in programming and graphic designing
-- 🌱 I’m currently in my 4th year of studies towards a Bachelor's of Science in Information Technology
+- :man_student: I graduated with a degree in Bachelor's of Science in Information Technology
 - 📫 How to reach me, you can email me at Xeniorita.laquesta@gmail.com 
 - :round_pushpin: Visit my LinkedIN www.linkedin.com/in/xeniorita-alondra-bio
 
